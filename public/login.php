@@ -20,29 +20,30 @@
 
 
 
-<div class="container ">
-	<form>
+ <div class="container ">
+<form>
     <div class="row m-auto">
       <div class="col-md-4 offset-md-4">
              <h3 class="text-center">Login here</h3>
             <div class="form-group">
     <label>Email</label>
     <input type="email" class="form-control" placeholder="enter-email">
-</div>
+     </div>
   
      <div class="form-group">        
-  <label>Password</label>
+     <label>Password</label>
   <input type="password" class="form-control" placeholder="password">  
-</div>
+    </div>
    
-<br> 
-<div class="form-group">
+ <br> 
+ <div class="form-group">
 	<label>
 		<button id="s1" type="login" class="btn btn-success btn-block">login</button>
 	</label>
-</div>
-</div>
-</div>
+ 
+	<div>
+    </div>
+    </div>
 
 
 
