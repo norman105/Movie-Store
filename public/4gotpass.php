@@ -19,7 +19,7 @@
 
 
 <div class="container mt-5">
-<form class="form-inline">
+<form>
   <div class="form-group">        
   <label>Email</label>
   <input type="text" class="form-control" placeholder="Enter-email"> 
